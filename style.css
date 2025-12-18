@@ -1,0 +1,266 @@
+body{
+    background-color: rgba(0, 128, 255, 0.384);
+}
+
+header{
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 10%;
+}
+.logo{
+    width: 120px;
+    display: block;
+}
+.nav-links{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 50px;
+    font-size: 28px;
+}
+.nav-links a {
+    text-decoration: none;
+    color: #333;
+    position: relative;
+}
+.nav-links a::after{
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 4px;
+    background: rgba(16, 16, 179, 0.704);
+    left: 0;
+    bottom: -5px;
+    transition: 0.3s;
+}
+.nav-links a:hover::after{
+    width: 100%;
+}
+.portada{
+    width: 900px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.cuadro, th, td{
+    border: 3px solid black;
+    width: 450px;
+    margin: 0 auto;
+}
+.parte1{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte2{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte3{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte4{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte5{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte6{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte7{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte8{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte9{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte10{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte11{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte12{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte13{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte14{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte15{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte16{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte17{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte18{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte19{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte20{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte21{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte22{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte23{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte24{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte25{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte26{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte27{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte28{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte29{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte30{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte31{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte32{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte33{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte34{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte35{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte36{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte37{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte38{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte39{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte40{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte41{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte42{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.parte43{
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
